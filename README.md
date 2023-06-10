@@ -63,9 +63,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[add to list]**
-- **[remove list]**
-- **[edit]**
+- **[status update]**
+- **[checkbox change]**
+- **[remove completed]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,18 +123,6 @@ To run tests, run the following command:
 ```sh
  npx stylelint "**/*.{css,scss}"
 ```
-
-### Deployment
-
-You can deploy this project using:
-
-GitHub Pages
-
-```sh
-  https://vikas924.github.io/Awesome-books/
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
