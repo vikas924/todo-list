@@ -29,9 +29,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [To do list structure] <a name="about-project"></a>
+# 📖 [To do list Add Remove] <a name="about-project"></a>
 
-**[To do list structure]** In this project i created to do list structure with tasks added dynamically through js.
+**[To do list Add Remove]** In this project i created to do list structure with added function for add,remove and edit list.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,9 +63,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[add webpack]**
-- **[Dynamically add tasks]**
-- **[Use webpack dev server]**
+- **[add to list]**
+- **[remove list]**
+- **[edit]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
