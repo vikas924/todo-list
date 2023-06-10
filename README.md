@@ -20,18 +20,16 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [To do list Add Remove] <a name="about-project"></a>
+# 📖 [To-do-list-interactive] <a name="about-project"></a>
 
-**[To do list Add Remove]** In this project i created to do list structure with added function for add,remove and edit list.
+**[To-do-list-interactive]** In this project i created to do list structure with added function for add,remove,edit,staus update for checked boxes and remove checked lists.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,9 +61,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[add to list]**
-- **[remove list]**
-- **[edit]**
+- **[status update]**
+- **[checkbox change]**
+- **[remove completed]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,18 +122,6 @@ To run tests, run the following command:
  npx stylelint "**/*.{css,scss}"
 ```
 
-### Deployment
-
-You can deploy this project using:
-
-GitHub Pages
-
-```sh
-  https://vikas924.github.io/Awesome-books/
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -150,9 +136,9 @@ GitHub Pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add and remove tasks]**
-- [ ] **[edit task text]**
-- [ ] **[remove completed tasks]**
+- [ ] **[Add styes]**
+- [ ] **[animations]**
+- [ ] **[refresh]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,8 +161,6 @@ If you like this project please follow me on github , twitter and also connect o
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for this exercise.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
