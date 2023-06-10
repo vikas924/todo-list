@@ -29,9 +29,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [To do list Add Remove] <a name="about-project"></a>
+# 📖 [To-do-list-interactive] <a name="about-project"></a>
 
-**[To do list Add Remove]** In this project i created to do list structure with added function for add,remove and edit list.
+**[To-do-list-interactive]** In this project i created to do list structure with added function for add,remove,edit,staus update for checked boxes and remove checked lists.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -150,9 +150,9 @@ GitHub Pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add and remove tasks]**
-- [ ] **[edit task text]**
-- [ ] **[remove completed tasks]**
+- [ ] **[Add styes]**
+- [ ] **[animations]**
+- [ ] **[refresh]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
